@@ -199,12 +199,3 @@ Errors always look like `{ "success": false, "message": "..." }` with a suitable
 
 Real payment gateway (Razorpay/Stripe) · SMS notifications · QR-code e-tickets · real-time seat updates with Socket.IO · visual seat-layout designer · coupons and offers · food ordering · password reset · automated tests and CI/CD.
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| _Your name_ | _Role_ |
-
-## 📄 License
-
-This project is for educational purposes. Add your preferred license here (e.g. MIT).
